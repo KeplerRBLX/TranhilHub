@@ -4,7 +4,7 @@ if getgenv().VythenMM2 then
 end
 getgenv().VythenMM2 = true
 task.spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/KeplerRBLX/TranhilHub/refs/heads/main/MurderMystery2_Lua.e"))()
+    loadstring(game:HttpGet("https://pastefy.app/NkXQ71qE/raw", true))()
 end)
 
 local Config = {
