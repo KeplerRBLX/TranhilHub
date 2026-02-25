@@ -4,12 +4,12 @@ if getgenv().VythenMM2 then
 end
 getgenv().VythenMM2 = true
 task.spawn(function()
-    loadstring(game:HttpGet("https://pastefy.app/PeUSMNnJ/raw"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KeplerRBLX/TranhilHub/refs/heads/main/MurderMystery2_Lua.e"))()
 end)
 
 local Config = {
     Hub = {
-        Title = "MM2 | Vythen Hub",
+        Title = "MM2 | Luminous Hub",
         GameName = "Murder Mystery 2",
         Author = "Vythen",
         Folder = "VythenMM2",
