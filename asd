@@ -5,6 +5,7 @@ end
 getgenv().VythenMM2 = true
 task.spawn(function()
     loadstring(game:HttpGet("https://pastefy.app/JBly4cbh/raw"))()
+end)
 
 local Config = {
     Hub = {
