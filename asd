@@ -9,7 +9,7 @@ end)
 
 local Config = {
     Hub = {
-        Title = "MM2 | Luminous Hub",
+        Title = "MM2 | Falcon Hub",
         GameName = "Murder Mystery 2",
         Author = "Vythen",
         Folder = "VythenMM2",
