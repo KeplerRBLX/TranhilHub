@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/ozN4zjqM/raw"))()
-loadstring(game:HttpGet("https://gitlab.com/rlbx-scripts/elysium/-/raw/main/mm2-visual"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImU4M2MyNDU4LTQxMmQtNDAzNS1iZTk0LTI2ZTViMWJmZTJmMSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
